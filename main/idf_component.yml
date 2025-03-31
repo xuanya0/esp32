@@ -1,0 +1,4 @@
+## IDF Component Manager Manifest File
+dependencies:
+  espressif/ds18b20: '*'
+  espressif/esp_bsp_devkit: '*'
